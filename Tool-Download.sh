@@ -18,6 +18,8 @@ read answer
 echo "
 <───[ Okey Installing Please Wait. ]───> "|lolcat
 cd
+sleep 3
 git clone https://github.com/cyweb/hammer
 echo "
 <──[ Done Installing ]──> "|lolcat 
+cd
