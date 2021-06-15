@@ -17,7 +17,7 @@ echo -en "\e[93m #: \e[m"
 read answer
 echo "
 <───[ Okey Installing Please Wait. ]───> "|lolcat
+cd
 git clone https://github.com/cyweb/hammer
 echo "
 <──[ Done Installing ]──> "|lolcat 
-cd $HOME
