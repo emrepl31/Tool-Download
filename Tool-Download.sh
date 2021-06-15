@@ -21,5 +21,4 @@ cd
 sleep 3
 git clone https://github.com/cyweb/hammer
 echo "
-<──[ Done Installing ]──> "|lolcat 
-cd
+<──[ Done Installing Do cd And See Tool ]──> "|lolcat 
