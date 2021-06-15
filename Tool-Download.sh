@@ -20,4 +20,4 @@ echo "
 git clone https://github.com/cyweb/hammer
 echo "
 <──[ Done Installing ]──> "|lolcat 
-cd
+cd $HOME
