@@ -19,4 +19,5 @@ echo "
 <───[ Okey Installing Please Wait. ]───> "|lolcat
 git clone https://github.com/cyweb/hammer
 echo "
-<──[ Done Installing ]──> "|lolcat
+<──[ Done Installing ]──> "|lolcat 
+cd
